@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "ELEVEN -Japanese ver.-",
+  "base_artist": "IVE",
+  "createdAt": "2026-02-18T22:27:14.206295Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ELEVEN -Japanese ver.-",
+      "artist": "IVE",
+      "has_synced": true,
+      "path": "select/01_ELEVEN_-Japanese_ver.-_IVE.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ELEVEN -Japanese ver.- - ELEVEN -Japanese version-",
+      "artist": "IVE",
+      "has_synced": true,
+      "path": "select/02_ELEVEN_-Japanese_ver.-_-_ELEVEN_-Japanese_version-_IVE.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ELEVEN -Japanese ver.-",
+      "artist": "IVE",
+      "has_synced": true,
+      "path": "select/03_ELEVEN_-Japanese_ver.-_IVE.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ELEVEN -Japanese ver.-",
+      "artist": "IVE (아이브)",
+      "has_synced": true,
+      "path": "select/04_ELEVEN_-Japanese_ver.-_IVE_(아이브).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ELEVEN -Japanese version-",
+      "artist": "IVE",
+      "has_synced": false,
+      "path": "select/pl_01_ELEVEN_-Japanese_version-_IVE.txt"
+    }
+  ]
+}
